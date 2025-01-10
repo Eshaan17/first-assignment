@@ -256,3 +256,21 @@ background: rgb(198, 228, 214);
     letter-spacing: 0%;
     text-align: left;
 }
+.newsContainer{
+    display: flex;
+    align-items: center;
+    padding: 48px;
+
+}
+.newsBtn{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600px;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+    border-radius: 8px;
+background: rgb(0, 106, 80);
+padding: 13px 26px 13px 26px;
+}
