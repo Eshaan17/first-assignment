@@ -393,6 +393,7 @@ text-align: left;
     border-radius: 0px 8px 8px 0px;
     padding: 17px 34px 17px 34px;
 background: rgb(0, 106, 80);
+border: none;
 }
 .npara{
     margin-top: 35px;
