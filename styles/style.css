@@ -383,3 +383,13 @@ font-weight: 700px;
 line-height: 38px;
 letter-spacing: 0%;
 }
+.fpng{
+    margin: 33px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 23px;
+}
+.ftr{
+    margin: 80px;
+}
