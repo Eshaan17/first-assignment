@@ -332,3 +332,54 @@ text-align: left;
 .sc{
     margin: 32px;
 }
+
+.newsLetter{
+height: 255px;
+    margin: 70px;
+    border-radius: 24px;
+background: rgb(198, 228, 214);
+padding: 80px 100px 80px 100px;
+}
+.nl{
+    display: flex;
+    margin: 24px;
+    align-items: center;
+    justify-content: center;
+}
+input[type="email"]{
+    width: 600px;
+    height: 55px;
+    border-radius: 8px 0px 0px 8px;
+
+background: rgb(255, 255, 255);
+}
+.subbtn{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600px;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+    border-radius: 0px 8px 8px 0px;
+    padding: 17px 34px 17px 34px;
+background: rgb(0, 106, 80);
+}
+.npara{
+    margin-top: 35px;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400px;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+}
+.ft{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700px;
+line-height: 38px;
+letter-spacing: 0%;
+}
