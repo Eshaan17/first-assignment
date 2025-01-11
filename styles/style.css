@@ -69,6 +69,14 @@ text-align: left;
 height: 329.21px;
 }
 .bannerbtn{
+    border: none;
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
     border-radius: 8px;
     background: rgb(0, 106, 80);
     position: static;
