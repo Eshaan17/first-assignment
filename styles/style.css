@@ -5,6 +5,9 @@
   font-variation-settings:
     "wdth" 100;
 }
+.bclr{
+    background-color:#F1F1F3 ;
+}
 /* margin */
 .mrgn{
     margin: 0px 160px;
@@ -27,6 +30,7 @@ letter-spacing: 0%;
 text-align: left;
 font-weight: 600px;
 font-size: 18px;
+border: none;
 box-sizing: border-box;
 border: 1px solid rgb(0, 106, 80);
 border-radius: 8px;
@@ -276,6 +280,7 @@ font-weight: 600px;
 line-height: 22px;
 letter-spacing: 0%;
 text-align: left;
+border: none;
     border-radius: 8px;
 background: rgb(0, 106, 80);
 padding: 13px 26px 13px 26px;
